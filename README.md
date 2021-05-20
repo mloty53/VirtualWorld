@@ -1,2 +1,2 @@
 # VirtualWorld
-Basic game in C++
+Basic game in C++ and in Java
